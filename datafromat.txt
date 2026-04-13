@@ -1,0 +1,8 @@
+{
+  "task_id": "task_001",
+  "messages": [
+    {"role": "system", "content": "You are an expert prompt engineer for coding tasks."},
+    {"role": "user", "content": "Write an optimized prompt for this coding task: Write a Python function that returns the factorial of a number."},
+    {"role": "assistant", "content": "Solve the following programming task in Python. Return only valid Python code. Use an efficient and correct solution, and handle edge cases carefully."}
+  ]
+}
